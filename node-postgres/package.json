@@ -1,0 +1,17 @@
+{
+  "name": "node-postgres",
+  "version": "1.0.0",
+  "description": "dicourse data visualization",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "chart.js": "^3.5.1",
+    "express": "^4.17.1",
+    "pg": "^8.7.1",
+    "react-chartjs-2": "^3.0.5"
+  }
+}
